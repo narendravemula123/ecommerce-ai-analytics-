@@ -58,3 +58,13 @@ It simulates intelligent workflows similar to AI assistants by combining data pi
 ---
 
 ## 📂 Project Structure
+ecommerce-ai-project/
+│
+├── data/
+├── src/
+├── output/
+│   └── ai_insights.txt
+├── dashboard.py
+├── main.py
+├── README.md
+└── requirements.txt
