@@ -39,6 +39,16 @@ It simulates intelligent workflows similar to AI assistants by combining data pi
 
 ---
 
+## 🧾 Example AI Output
+
+**Input:** Product name: Wireless Earbuds  
+
+**Generated Output:**  
+- Title: Premium Wireless Earbuds with Noise Cancellation  
+- Description: High-quality earbuds designed for immersive sound and comfort...  
+- Keywords: wireless earbuds, bluetooth headphones, noise cancellation
+  
+
 ## 💡 Use Cases
 
 - E-commerce product listing optimization  
